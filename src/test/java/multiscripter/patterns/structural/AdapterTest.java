@@ -4,14 +4,14 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
- * Адаптер (Adapter) — структурный шаблон проектирования.
+ * Адаптер (Adapter) - структурный шаблон проектирования.
  * Решает задачу унифицированный работы с классами,
  * имеющими несовместимый интерфейс.
  */
 public class AdapterTest {
 
     /**
-     * Демонстрация применения шаблона Adapter (Адаптер).
+     * Демонстрация применения шаблона Адаптер (Adapter).
      */
     @Test
     public void showAdapterUsage() {
