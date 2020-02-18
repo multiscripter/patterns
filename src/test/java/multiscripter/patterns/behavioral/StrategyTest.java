@@ -3,6 +3,19 @@ package multiscripter.patterns.behavioral;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+/**
+ * Стратегия (Strategy) — поведенческий шаблон проектирования.
+ * Решает задачу взаимозаменяемости классов с одинаковым интерфейсом.
+ */
+
+/**
+ * Пример.
+ * Дано:
+ * Несколько систем логирования (логирование на файла, логирование в БД).
+ * Задача:
+ * Разработать систему с возможностью в нужный момент использовать нужную
+ * систему логирования.
+ */
 public class StrategyTest {
 
     /**
