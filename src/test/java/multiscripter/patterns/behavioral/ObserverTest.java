@@ -1,16 +1,16 @@
 package multiscripter.patterns.behavioral;
 
+import org.junit.jupiter.api.Test;
+import java.util.ArrayList;
+import java.util.List;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 /**
  * Наблюдатель (Observer) — поведенческий шаблон проектирования.
  * Так же известен как "Издатель-подписчик" (publisher-subscriber или pub/sub).
  * Решает задачу изменения состояния одного или нескольких объектов (наблюдателей),
  * в зависимости от состояния другого объекта (наблюдаемого).
  */
-
-import org.junit.jupiter.api.Test;
-import java.util.ArrayList;
-import java.util.List;
-import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
  * Пример.
