@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
- * Фасад (Facade) — структурный шаблон проектирования.
+ * Фасад (Facade) - структурный шаблон проектирования.
  * Решает задачу простого использования системы
  * через предоставление упрощённого интерфейса.
  */

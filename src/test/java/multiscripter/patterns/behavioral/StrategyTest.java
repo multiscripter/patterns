@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
- * Стратегия (Strategy) — поведенческий шаблон проектирования.
+ * Стратегия (Strategy) - поведенческий шаблон проектирования.
  * Решает задачу взаимозаменяемости классов с одинаковым интерфейсом.
  */
 
